@@ -64,3 +64,90 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+body {
+	box-sizing: border-box;
+	margin: 1px 200px 5px 100px;
+	height: max- max-content; 
+	width: 950px;
+	margin: auto;
+
+} 
+nav {
+	margin:1px 5px 5px 5px;
+	text-align: center;
+
+}
+.navigation a {
+	color: gray;
+	width: 12%;
+	display: inline-block;
+	margin:5px 5px 2px 5px;
+
+}
+nav a img {
+	width: 180%;
+	display: inline-block;
+}
+header{
+	width: 100%;
+	font-size: 80px;
+	padding-top: 90px;
+	scroll-padding-bottom: 40px;
+	overflow: hidden;
+}
+hr {
+	border-top: 1px solid black;
+	margin-top: 20px;
+}
+button {
+	background-color: white;
+	color: black;
+	border: 2px solid black;
+	padding: 10px 45px; 
+	}
+.innovation {
+	margin-top: 40px;
+	margin-left: 105px;
+	float: left;
+	font-size: 80px;
+	padding-bottom: 40px;
+	color:black;
+	text-align: center;
+	
+}
+div img {
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+.top-content {
+	width: 100%;
+	margin-left: 30px;
+	margin-top: 35px;
+	
+}
+.middle-img {
+	margin-top: 45px;
+	margin-left: 46px;
+}
+.subsection1 {
+	width: 40%;
+	display: inline-block;
+	margin-left: 58px;
+}
+
+.subsection2 {
+	width: 28%;
+	display: inline-block;
+	margin-left: 46px;
+	margin-top: 40px;
+}
+.contact {
+	margin-top: 40px;
+	margin-left: 46px;
+}
+footer {
+	text-align: center;
+	margin-top: 40px;
+}
